@@ -15,26 +15,31 @@ Recommendations will be made on which approach is the most effective!
 ## Results
 
 ### Oversampling
+As shown below, oversampling demonstrates 0.66 balanced accuracy score, 0.60 recall, and 0.01 precision.
 
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/oversampling.png)
 
 ### SMOTE
+As shown below, SMOTE demonstrates 0.64 balanced accuracy score, 0.60 recall, and 0.01 precision.
 
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/smote.png)
 
-### Undersampling
+### Cluster Centroid Undersampling
+As shown below, Cluster Centroid Undersampling demonstrates 0.41 balanced accuracy score, 0.63 recall, and 0.01 precision.
 
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/undersampling.png)
 
 ### SMOTEENN
+As shown below, Cluster Centroid Undersampling demonstrates 0.54 balanced accuracy score, 0.69 recall, and 0.01 precision.
 
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/smoteenn.png)
 
-### Balanced
+### Balanced Random Forest
+As shown below, Balanced Random Forest demonstrates 0.78 balanced accuracy score, 0.67 recall, and 0.04 precision.
 
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/balanced.png)
 
-### Esemble
-
+### EasyEnsemble
+As shown below, EasyEnsemble demonstrates 0.93 balanced accuracy score, 0.91 recall, and 0.07 precision.
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/esemble.png)
 

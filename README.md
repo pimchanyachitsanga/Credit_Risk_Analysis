@@ -14,4 +14,4 @@ Recommendations will be made on which approach is the most effective!
 
 ## Results
 
-![oversampling](https://github.com/pimchanyachitsanga/MechaCar_Statistical_Analysis/blob/main/Resources/oversampling.png)
+![oversampling.png](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/tree/main/Resources/oversampling.png)

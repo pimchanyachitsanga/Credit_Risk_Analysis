@@ -35,7 +35,7 @@ As shown below, SMOTEENN Undersampling demonstrates 0.54 balanced accuracy score
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/smoteenn.png)
 
 ### Balanced Random Forest
-As shown below, Balanced Random Forest demonstrates 0.78 balanced accuracy score, 0.67 recall, and 0.04 precision.
+As shown below, Balanced Random Forest demonstrates 0.78 balanced accuracy score, 0.69 recall, and 0.04 precision.
 
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/balanced.png)
 
@@ -47,5 +47,5 @@ As shown below, EasyEnsemble demonstrates 0.93 balanced accuracy score, 0.91 rec
 
 Among all the models tested:
 * Over/undersampling models and SMOTE and SMOTEENN performed similarly with balanced accuracy scores between 0.41 and 0.66. Start from the lowest accuracy score of 0.41 for Cluster Centroid Undersampling, 0.54 (SMOTEENN), 0.64 for SMOTE, and 0.66 for Random Oversampling. All of these models have a precision of 0.01 and recalls between 0.60 and 0.69. We would not recommend the top 4 models.
-* The last two algorithms performed better in all metrics. EasyEnsemble has the best balanced accuracy score of 0.93 and a recall of 0.91. This indicates that 91% of "true" high risk loans would be identified while Balanced Random Forest has the second best balanced accuracy score of 0.78 and a recall of 0.6 which indicates that 78% of "true" high risk loans would be identified
-* We would recommend EasyEnsemble algorithm to predict credit risk.
+* The last two algorithms performed better in all metrics. EasyEnsemble has the best balanced accuracy score of 0.93 and a recall of 0.91. This indicates that 91% of "true" high risk loans would be identified while Balanced Random Forest has the second best balanced accuracy score of 0.78 and a recall of 0.6 which indicates that 78% of "true" high risk loans would be identified. Both also has more precision of 0.04 for Balanced Random Forest and 0.07 for EasyEnsemble.
+* We would recommend EasyEnsemble algorithm to predict credit risk as this method outperformed others in all aspects.

@@ -43,3 +43,9 @@ As shown below, Balanced Random Forest demonstrates 0.78 balanced accuracy score
 As shown below, EasyEnsemble demonstrates 0.93 balanced accuracy score, 0.91 recall, and 0.07 precision.
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/esemble.png)
 
+## Summary
+
+Among all the models tested:
+* Over/undersampling models and SMOTE and SMOTEENN performed similarly with balanced accuracy scores between 0.41 and 0.66. Start from the lowest accuracy score of 0.41 for Cluster Centroid Undersampling, 0.54 (SMOTEENN), 0.64 for SMOTE, and 0.66 for Random Oversampling. All of these models have a precision of 0.01 and recalls between 0.60 and 0.69. We would not recommend the top 4 models.
+* The last two algorithms performed better in all metrics. EasyEnsemble has the best balanced accuracy score of 0.93 and a recall of 0.91. This indicates that 91% of "true" high risk loans would be identified while Balanced Random Forest has the second best balanced accuracy score of 0.78 and a recall of 0.6 which indicates that 78% of "true" high risk loans would be identified
+* We would recommend EasyEnsemble algorithm to predict credit risk.

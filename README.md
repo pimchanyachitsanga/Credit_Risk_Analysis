@@ -14,13 +14,27 @@ Recommendations will be made on which approach is the most effective!
 
 ## Results
 
+### Oversampling
+
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/oversampling.png)
+
+### SMOTE
 
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/smote.png)
 
+### Undersampling
+
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/undersampling.png)
 
+### SMOTEENN
+
+![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/smoteenn.png)
+
+### Balanced
+
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/balanced.png)
+
+### Esemble
 
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/esemble.png)
 

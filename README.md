@@ -30,7 +30,7 @@ As shown below, Cluster Centroid Undersampling demonstrates 0.41 balanced accura
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/undersampling.png)
 
 ### SMOTEENN
-As shown below, Cluster Centroid Undersampling demonstrates 0.54 balanced accuracy score, 0.69 recall, and 0.01 precision.
+As shown below, SMOTEENN Undersampling demonstrates 0.54 balanced accuracy score, 0.69 recall, and 0.01 precision.
 
 ![](https://github.com/pimchanyachitsanga/Credit_Risk_Analysis/blob/main/Resources/smoteenn.png)
 
